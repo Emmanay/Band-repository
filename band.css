@@ -1,0 +1,39 @@
+Body {
+  font-family:helvetica;
+  text-align:center;
+  background-color: rgb(148, 148, 148);
+  color:white;
+}
+h1 {
+  font-size: 100px;
+}
+header {
+  background: url("http://www.mixinspired.com/wp-content/uploads/2016/12/Header-image-manc.jpg");
+  background-size: cover;
+  padding:100px;
+}
+  h2 {
+    font-size: 45px;
+  }
+ul{
+  padding: 20px;
+  background:rgba(0,0,0,0.7);
+}
+li{
+  display: inline;
+  padding:30px;
+  color:white;
+  font-size: 25px;
+
+}
+a {
+  color: white;
+}
+p {
+  font-size: 20px;
+  padding: 30px;
+  max-width: 1500px;
+}
+img {
+  border: 7px solid white;
+}
